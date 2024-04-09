@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\srrays\spring-mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\508866700.index
+\spring-mvc\src\main\resources
+C:\srrays\spring-mvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\225721757.index
+\spring-mvc\src\main\java

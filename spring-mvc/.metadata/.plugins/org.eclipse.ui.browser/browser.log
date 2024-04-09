@@ -1,0 +1,26 @@
+
+Mar 28, 2024 15:44:17.23 NEW SESSION
+Mar 28, 2024 15:44:17.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 28, 2024 15:44:17.26 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Mar 28, 2024 15:58:34.19 [7320:3880:0328/155834.189:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 28, 2024 16:05:32.59 [7320:3880:0328/160532.594:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Mar 28, 2024 16:24:09.29 [7320:3880:0328/162409.281:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 28, 2024 19:24:09.74 [7320:3880:0328/192409.740:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 28, 2024 23:56:56.61 [7320:368:0328/235656.605:ERROR:device_event_log_impl.cc(195)] [23:56:56.589] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 28, 2024 23:57:46.23 [7320:368:0328/235746.230:ERROR:device_event_log_impl.cc(195)] [23:57:46.202] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 29, 2024 16:32:56.48 NEW SESSION
+Mar 29, 2024 16:32:56.48 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2024 16:32:56.50 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Mar 29, 2024 16:43:28.04 [28356:6204:0329/164328.038:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 02, 2024 23:58:29.05 NEW SESSION
+Apr 02, 2024 23:58:29.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 02, 2024 23:58:29.17 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+
+Apr 03, 2024 14:42:17.38 NEW SESSION
+Apr 03, 2024 14:42:17.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2024 14:42:17.39 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 03, 2024 14:53:45.64 [14196:14044:0403/145345.646:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2024 15:36:37.76 [14196:14044:0403/153637.767:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2024 15:43:13.02 [14196:14044:0403/154313.025:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
